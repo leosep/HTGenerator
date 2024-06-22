@@ -34,7 +34,7 @@ The main menu provides a straightforward interface for selecting various options
 
 ## Usage
 
-To use the HT Generator, simply run the `views.py` script. You'll be greeted with a header displaying the project name, version, and author details. Follow the prompts in the main menu to generate the desired `.htaccess` or `.htpasswd` file.
+To use the HT Generator, simply run the `start.py` script. You'll be greeted with a header displaying the project name, version, and author details. Follow the prompts in the main menu to generate the desired `.htaccess` or `.htpasswd` file.
 
 ### Example
 
